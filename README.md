@@ -80,3 +80,7 @@ The repository ignores environment files, dependencies, build output, and local 
 | `tests/` | Behavioral regression tests |
 
 Read the [architecture guide](docs/architecture.md) and [repository rules](AGENTS.md) before changing module ownership. [CLAUDE.md](CLAUDE.md) references the same rules. The [UX fixes and verification record](docs/fixes.md) documents prior interaction checks and remaining browser/device coverage limits.
+
+## Screenshot
+<img width="1920" height="955" alt="Screenshot 2026-10-19 at 21 34 44" src="https://github.com/user-attachments/assets/32326596-720e-4cd8-9f4b-526040c68849" />
+
